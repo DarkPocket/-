@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471098126 source:f:\c代码\c源程序\blocks 测试\快速排序算法\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
